@@ -1,93 +1,143 @@
 👋 Hi, I’m Faiq
 
-I’m a Software Engineer focused on backend development, APIs, and DevOps practices. I spend most of my time building and maintaining production systems that real users depend on — often in enterprise and long-running projects.
+- Software Engineer focused on backend development, APIs, and DevOps
+
+- Around 3 years of experience working on production systems
+
+- Stronger on backend (~75%), but comfortable working full-stack when needed
+
+- Used to maintaining long-running, enterprise-level applications
 
 💼 What I do
 
-Build and maintain backend APIs (mainly .NET-based)
+- Build and maintain backend APIs (mainly .NET)
 
-Work on non-trivial backend logic beyond CRUD:
+- Handle CRUD and non-CRUD backend logic, such as:
 
-background jobs & schedulers
+  - Background jobs
 
-timers and async processing
+  - Schedulers & timers
 
-email and notification services
+  - Async processing
 
-Design and optimize database interactions (PostgreSQL, SQL Server)
+  - Email & notification services
 
-Improve CI/CD pipelines and developer workflows
+- Design, optimize, and troubleshoot database queries
 
-Integrate code quality & security tools (SonarCloud, Fortify)
+- Refactor legacy code without breaking production
 
-🛠️ Tech I’ve worked with
+- Debug production issues and support live systems
 
-Backend: .NET, C#, REST APIs
+🛠️ Tech & Tools
 
-Databases: PostgreSQL, SQL Server
+- Backend
 
-DevOps: Azure DevOps Pipelines (Build & Release), CI/CD automation
+  - C#, .NET
 
-Quality & Security: SonarCloud, Fortify
+  - RESTful APIs
 
-Other: Git, Docker (basic), OutSystems (enterprise low-code)
+- Databases
 
-🧠 How I approach work
+  - PostgreSQL
 
-I’m the kind of engineer who gets the job done even if I’ve never done the task before.
+  - SQL Server
 
-If something is new:
+- DevOps / CI-CD
 
-I break the problem down
+  - Azure DevOps Repos
 
-Learn fast
+  - Azure Build Pipelines
 
-Ask the right questions
+  - Azure Release Pipelines
 
-And make sure the solution works in production, not just in theory
+  - Code Quality & Security
 
-I’ve stepped into unfamiliar areas multiple times — whether it’s pipelines, system behavior, or backend processes — and owned the outcome until it’s done properly.
+  - SonarCloud
 
-📌 About my GitHub activity (important note)
+  - Fortify
 
-You might notice that my GitHub activity is quite minimal.
+- Others
 
-That’s because my day-to-day professional work is done using Azure DevOps Repos, not GitHub. Most of the code I work on is:
+  - Git
 
-Proprietary
+  - Docker (basic)
 
-Hosted in Azure Repos
+  - OutSystems (enterprise low-code)
 
-Not publicly accessible
+🧠 How I work
 
-So while you won’t see frequent commits here, I actively work with Git, pull requests, code reviews, CI/CD pipelines, and production systems in my daily role.
+- I get the job done even if I’ve never done the task before
 
-🚀 How I like to work
+- Comfortable stepping into:
 
-Strong focus on code quality, maintainability, and automation
+  - New tools
 
-Prefer build pipelines for PR validation, and release pipelines only when needed
+  - New domains
 
-Comfortable working with:
+  - Ongoing projects with limited handover
 
-legacy systems
+- Learn while delivering, not learning forever before starting
 
-imperfect processes
+- Focus on practical solutions, not over-engineering
 
-and gradually improving them without breaking production
+🔁 CI/CD & Engineering Practices
 
-🌱 Currently learning / interested in
+- Prefer separating:
 
-Scalable backend & API design
+  - Build pipelines → for PR validation & quality checks
 
-System design & performance tuning
+  - Release pipelines → only when a release is actually needed
 
-Cloud-native patterns
+- Set up automated pipelines to:
 
-Fintech & crypto-related platforms
+  - Run on every merge to specific branches
 
-📫 Let’s connect
+  - Enforce code quality and security checks
 
-💼 Open to backend / API-focused roles
+- Integrated tools like:
 
-🤝 Always happy to talk about backend architecture, pipelines, or system design
+  - SonarCloud for code quality
+
+  - Fortify for security scanning
+
+- Strong belief that good pipelines save more time than they cost
+
+📌 About my GitHub activity
+
+- You may notice minimal commit activity here
+
+- My day-to-day work uses:
+
+  - Azure DevOps Repos, not GitHub
+
+- Most of my work code is:
+
+  - Proprietary
+
+  - Hosted internally
+
+  - Not publicly accessible (company private network)
+
+- Still actively involved in:
+
+  - Pull requests
+
+  - Code reviews
+
+  - Branching strategies
+
+  - CI/CD pipelines
+
+  - Production deployments
+
+🚀 Interests
+
+- Backend system design
+
+- Scalable APIs
+
+- Performance & reliability
+
+- DevOps & automation
+
+- Want to explore more on Fintech / crypto platforms
