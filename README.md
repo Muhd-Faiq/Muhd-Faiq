@@ -2,7 +2,7 @@
 
 - Software Engineer focused on backend development, APIs, and DevOps
 
-- Around 3 years of experience working on production systems
+- More than 3 years of experience working on production systems
 
 - Stronger on backend (~75%), but comfortable working full-stack when needed
 
